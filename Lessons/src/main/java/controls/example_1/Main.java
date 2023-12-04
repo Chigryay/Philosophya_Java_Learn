@@ -1,4 +1,4 @@
-package org.example.controls.example_1;
+package controls.example_1;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
