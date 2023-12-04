@@ -12,6 +12,7 @@ public class Main {
             arr[i] = random.nextInt(11);
         }
         System.out.println(result(arr));
+        System.out.println(1);
 
     }
     public static String result(int[] arr) {
