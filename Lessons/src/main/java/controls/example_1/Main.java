@@ -11,8 +11,8 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = random.nextInt(11);
         }
-        System.out.println(Arrays.toString(arr));
         System.out.println(result(arr));
+
     }
     public static String result(int[] arr) {
         StringBuilder res = new StringBuilder();
