@@ -1,7 +1,6 @@
-package controls.example_1;
+package main.java.controls.example_1;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
+
 import java.util.Random;
 
 public class Main {
