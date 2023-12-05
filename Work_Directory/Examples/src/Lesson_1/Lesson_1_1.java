@@ -2,7 +2,8 @@ package Lesson_1;
 
 import java.util.Random;
 
-public class Main {
+
+public class Lesson_1_1 {
     public static void main(String[] args) {
         int[] arr = new int[25];
         Random random = new Random();
@@ -10,8 +11,6 @@ public class Main {
             arr[i] = random.nextInt(11);
         }
         System.out.println(result(arr));
-        System.out.println(2);
-
     }
     public static String result(int[] arr) {
         StringBuilder res = new StringBuilder();
