@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5ad8747-68f2-4d22-bc13-4ef05c2361ed" name="Changes" comment="" />
+    <list default="true" id="f8817c4c-31d5-46dc-bf08-0298011af4aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2Z6m8VyIUpuR3nyD0SbjMS8mEKz" />
+  <component name="ProjectId" id="2Z6kuuzDX0Ovvl2Wub6sc4TE6Ee" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,17 +26,30 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Philosophya_Java/Philosophya_Java_Learn/Work_Directory/src/Main.java"
+    "last_opened_file_path": "C:/Philosophya_Java/Philosophya_Java_Learn/.idea"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Philosophya_Java\Philosophya_Java_Learn\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="Philosophya_Java_Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a5ad8747-68f2-4d22-bc13-4ef05c2361ed" name="Changes" comment="" />
-      <created>1701750749122</created>
+      <changelist id="f8817c4c-31d5-46dc-bf08-0298011af4aa" name="Changes" comment="" />
+      <created>1701750143315</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1701750749122</updated>
+      <updated>1701750143315</updated>
     </task>
     <servers />
   </component>
