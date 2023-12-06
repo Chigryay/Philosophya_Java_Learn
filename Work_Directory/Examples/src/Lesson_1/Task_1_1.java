@@ -3,7 +3,7 @@ package Lesson_1;
 import java.util.Random;
 
 
-public class Lesson_1_1 {
+public class Task_1_1 {
     public static void main(String[] args) {
         int[] arr = new int[25];
         Random random = new Random();

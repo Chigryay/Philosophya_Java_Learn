@@ -1,6 +1,6 @@
 package Lesson_1;
 
-public class Lesson_1_2 {
+public class Task_1_2 {
     public static void main(String[] args) {
         System.out.println(test(0, 10, 4));
         System.out.println(test(8, 12, 14));
